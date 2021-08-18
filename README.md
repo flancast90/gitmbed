@@ -8,7 +8,7 @@
 
 
 _or, install using the Load Unpacked feature in Chrome/Edge_<br />
-per https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/
+  per https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/<br /><br />
 > 1. Goto Chrome Settings using three dots on the top right corner.
 > ![three dots](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/15065417/1-2.png)
 >
