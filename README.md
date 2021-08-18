@@ -47,7 +47,7 @@ The code for the below example looks like the following (will show-up as "Downlo
 <a href="link"><img width="100%" src="https://gitmbed.finnsoftware.net/assets/img/button_gitmbed.png#https://musescore.com/user/35848526/scores/6907224/embed,100%,500"/></a>
 ```
 
-<a href="https://www.finnsoftware.net/"><img width="100%" src="https://gitmbed.finnsoftware.net/assets/img/button_gitmbed.png#https://musescore.com/user/35848526/scores/6907224/embed,100%,500"/></a>
+<a href="https://www.finnsoftware.net/"><img width="100%" src="https://gitmbed.finnsoftware.net/assets/img/button_gitmbed.png#gitmbed=https://musescore.com/user/35848526/scores/6907224/embed,100%,500"/></a>
 
 <br />
 
