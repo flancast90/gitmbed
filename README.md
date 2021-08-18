@@ -27,6 +27,8 @@ For example, a simple interpretation of this (acceptable in GitHub markdown) wou
 
 In later versions of the ``gh-pages`` branch, gitmbed will also support dynamic generation of gitmbed content through the url: gitmbed.finnsoftware.net.
 
+<br />
+
 ### License
 
 Gitmbed, it's content, and it's ideas are copyrighted under the Apache 2.0 License. Details on this license, your rights, and the rights of the copyright holder can be found [here](https://www.apache.org/licenses/LICENSE-2.0)
