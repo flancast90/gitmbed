@@ -31,7 +31,7 @@ In later versions of the ``gh-pages`` branch, gitmbed will also support dynamic 
 
 ### Example
 
-<a href="https://github.com/flancast90/gitmbed" data-gitmbed="https://musescore.com/user/35848526/scores/6907224/embed, 100%, 500" class="gitmbed"><img width="100%" src="https://flancast90.github.io/gitmBed/button_gitmbed.png"/></a>
+<a href=""><img width="100%" src="https://flancast90.github.io/gitmBed/button_gitmbed.png#https://musescore.com/user/35848526/scores/6907224/embed,100%,500"/></a>
 
 <br />
 
