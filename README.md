@@ -7,7 +7,7 @@
 <a href=""><img src="get_on_cws.png" align="center"/></a>
 
 
-_or, install using the Load Unpacked feature in Chrome/Edge_
+_or, install using the Load Unpacked feature in Chrome/Edge_<br />
 per https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/
 > 1. Goto Chrome Settings using three dots on the top right corner.
 > ![three dots](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/15065417/1-2.png)
