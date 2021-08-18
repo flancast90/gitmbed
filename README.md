@@ -33,7 +33,7 @@ _or, install using the Load Unpacked feature in Chrome/Edge_ as explained [here]
 <details><summary>Manual Setup</summary>
   <ol>
     <li>The bare-minimum for gitmbed content is that it contains the page contains an image with the HTML <code>src</code> attribute. Inside this <code>src</code>, you must append the arguments <code>embed src</code>, <code>embed width</code>, <code>embed height</code></li>
-    <li>For example, the following code is the bare-minimum implementation of a gitmbed object <xmp><code><img src="link/to/image#gitmbed=embed_url,embed_width,embed_height"></img></code></li>
+    <li>For example, the following code is the bare-minimum implementation of a gitmbed object <code><img src="link/to/image#gitmbed=embed_url,embed_width,embed_height"></img></code></li>
     <li>As stated on the <a href="https://gitmbed.finnsoftware.net">gitmbed homepage</a>, the <code>embed_width</code> and <code>embed_height</code> arguments can take either a numerical px, percent, em, or rem value. It should also be noted that the <code>embed_url</code> must be a full url, including <code>https://</code>, <code>http://</code>, or <code>file://</code>
   </ol>
 </details>
