@@ -29,6 +29,12 @@ In later versions of the ``gh-pages`` branch, gitmbed will also support dynamic 
 
 <br />
 
+### Example
+
+<a href="https://github.com/flancast90/gitmbed" data-gitmbed="https://musescore.com/user/35848526/scores/6907224/embed, 100%, 500" class="gitmbed"><img width="100%" src="https://flancast90.github.io/gitmBed/button_gitmbed.png"/></a>
+
+<br />
+
 ### License
 
 Gitmbed, it's content, and it's ideas are copyrighted under the Apache 2.0 License. Details on this license, your rights, and the rights of the copyright holder can be found [here](https://www.apache.org/licenses/LICENSE-2.0)
