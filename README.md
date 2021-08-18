@@ -4,7 +4,7 @@
 <br />
 
 ### Install
-<a href="" align="center"><img src="get_on_cws.png" height="100" align="center"/></a>
+<a href="" align="center"><img src="get_on_cws.png" height="10" align="center"/></a>
 
 _or, install using the Load Unpacked feature in Chrome/Edge_ as explained [here](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/)
 
