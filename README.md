@@ -1,5 +1,5 @@
 # gitmbed
-> Safely embed external content in your GitHub README with simple markdown, and allow others to view it!
+> Safely embed external content in your GitHub README with simple HTML, and allow others to view it!
 
 <br />
 
@@ -32,8 +32,7 @@ _or, install using the Load Unpacked feature in Chrome/Edge_ as explained [here]
 <br />
 <details><summary>Manual Setup</summary>
   <ol>
-    <li>The bare-minimum for gitmbed content is that it contains the page contains an image with the HTML <code>src</code> attribute. Inside this <code>src</code>, you must append the arguments <code>embed src</code>, <code>embed width</code>, <code>embed height</code></li>
-    <li>For example, the following code is the bare-minimum implementation of a gitmbed object <code><img src="link/to/image#gitmbed=embed_url,embed_width,embed_height"></img></code></li>
+    <li>The bare-minimum for gitmbed content is that it contains the page contains an anchor-element (link) with the HTML <code>href</code> attribute. Inside this <code>href</code>, you must append the arguments <code>embed src</code>, <code>embed width</code>, <code>embed height</code></li>
     <li>As stated on the <a href="https://gitmbed.finnsoftware.net">gitmbed homepage</a>, the <code>embed_width</code> and <code>embed_height</code> arguments can take either a numerical px, percent, em, or rem value. It should also be noted that the <code>embed_url</code> must be a full url, including <code>https://</code>, <code>http://</code>, or <code>file://</code>
   </ol>
 </details>
@@ -44,7 +43,7 @@ _or, install using the Load Unpacked feature in Chrome/Edge_ as explained [here]
 
 The code for the below example looks like the following (will show-up as "Download Extension to View", unless extension is downloaded, where it will be an embed to my latest sheet music 🎵):
 ```html
-<a href="link"><img width="100%" src="https://gitmbed.finnsoftware.net/assets/img/button_gitmbed.png#https://musescore.com/user/35848526/scores/6907224/embed,100%,500"/></a>
+<a href="https://www.finnsoftware.net#gitmbed=https://musescore.com/user/35848526/scores/6907224/embed,100%,500"><img width="100%" src="https://gitmbed.finnsoftware.net/assets/img/button_gitmbed.png"/></a>
 ```
 
 <a href="https://www.finnsoftware.net/#gitmbed=https://musescore.com/user/35848526/scores/6907224/embed,100%,500"><img width="100%" src="https://gitmbed.finnsoftware.net/assets/img/button_gitmbed.png"/></a>
