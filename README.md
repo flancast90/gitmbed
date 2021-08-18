@@ -12,7 +12,7 @@ _or, install using the Load Unpacked feature in Chrome/Edge_ as explained [here]
 
 ### Getting Started!
 <br>
-**Viewing gitmbed Content**
+<b>Viewing gitmbed Content</b>
 <br /><br />
 
 1. After installing, the gitmbed browser extension will begin searching for embbeded content. When it finds this, it will automatically render it.
