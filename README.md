@@ -18,20 +18,33 @@ _or, install using the Load Unpacked feature in Chrome/Edge_ as explained [here]
 
 **Making gitmbed Content**<br />
 
-1. The bare-minimum for gitmbed content is that it contains the html ``class="gitmbed"``. To tell gitmbed what to render, your element must contain the ``data-gitmbed`` attribute. The arguments inside this ``data-gitmbed`` must comply with the following syntax: ``data-gitmbed="URL of embedded content, width of embedded content, height of embedded content"``.
-
-For example, a simple interpretation of this (acceptable in GitHub markdown) would look like this:
-```html
-<a href="https://github.com/flancast90/gitmbed" data-gitmbed="https://musescore.com/user/35848526/scores/6907224/embed, 100%, 500" class="gitmbed"><img width="100%" src="https://flancast90.github.io/gitmBed/button_gitmbed.png"/></a>
-```
-
-In later versions of the ``gh-pages`` branch, gitmbed will also support dynamic generation of gitmbed content through the url: gitmbed.finnsoftware.net.
+<details><summary>Auto-Generation (most users)</summary>
+  <ol>
+    <li>Navigate to https://gitmbed.finnsoftware.net#auto.</li>
+    <li>Fill-out the form with the correct data: url, width, and height</li>
+    <li>Your code will show up in the textarea below the form inputs. Copy this, and paste anywhere. Anyone with the gitmbed extension will be able to view your embedded content!</li>
+    <li>That's it! Congrats on the setup! 🎉</li>
+  </ol>
+</details>
+<br />
+<details><summary>Manual Setup</summary>
+  <ol>
+    <li>The bare-minimum for gitmbed content is that it contains the page contains an image with the HTML <code>src</code> attribute. Inside this <code>src</code>, you must append the arguments <code>embed src</code>, <code>embed width</code>, <code>embed height</code></li>
+    <li>For example, the following code is the bare-minimum implementation of a gitmbed object <xmp><img src="link/to/image#gitmbed=embed_url,embed_width,embed_height"></img></xmp></li>
+    <li>As stated on the <a href="https://gitmbed.finnsoftware.net">gitmbed homepage</a>, the <code>embed_width</code> and <code>embed_height</code> arguments can take either a numerical px, percent, em, or rem value. It should also be noted that the <code>embed_url</code> must be a full url, including <code>https://</code>, <code>http://</code>, or <code>file://</code>
+  </ol>
+</details>
 
 <br />
 
 ### Example
 
-<a href=""><img width="100%" src="https://flancast90.github.io/gitmBed/button_gitmbed.png#https://musescore.com/user/35848526/scores/6907224/embed,100%,500"/></a>
+The code for the below example looks like the following (will show-up as "Download Extension to View", unless extension is downloaded, where it will be an embed to my latest sheet music 🎵):
+```html
+<a href="link"><img width="100%" src="https://gitmbed.finnsoftware.net/assets/img/button_gitmbed.png#https://musescore.com/user/35848526/scores/6907224/embed,100%,500"/></a>
+```
+
+<a href="link"><img width="100%" src="https://gitmbed.finnsoftware.net/assets/img/button_gitmbed.png#https://musescore.com/user/35848526/scores/6907224/embed,100%,500"/></a>
 
 <br />
 
