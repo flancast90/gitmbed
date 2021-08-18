@@ -1,4 +1,4 @@
-# gitmBed
+# gitmbed
 > Embed external content in your GitHub README with simple markdown, and allow others to view it!
 
 <br />
