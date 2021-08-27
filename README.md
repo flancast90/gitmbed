@@ -46,7 +46,7 @@ The code for the below example looks like the following (will show-up as "Downlo
 <img alt="gitmbed=https://musescore.com/user/35848526/scores/6907224/embed,100%,500" width="100%" src="https://gitmbed.finnsoftware.net/assets/img/button_gitmbed.png"/>
 ```
 
-<img width="100%" alt="gitmbed=https://musescore.com/user/35848526/scores/6907224/embed,100%,500" src="https://gitmbed.finnsoftware.net/assets/img/button_gitmbed.png"/>
+<a href="https://chrome.google.com/webstore/detail/gitmbed/cbfjhpckapddemlmidlmgoepochhfpfi"><img width="100%" alt="gitmbed=https://musescore.com/user/35848526/scores/6907224/embed,100%,500" src="https://gitmbed.finnsoftware.net/assets/img/button_gitmbed.png"/></a>
 
 <br />
 
