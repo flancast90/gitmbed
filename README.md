@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/38MdKA3.gif" align="center" width="100%"/>
-<p><img src="https://img.shields.io/badge/Price-Free-yellow?style=for-the-badge&logo=money&logoColor=lightgreen"/><img src="https://img.shields.io/badge/Size-194_KB-lightgreen?style=for-the-badge&logo=size&logoColor=lightgreen"/><img src="https://img.shields.io/badge/GH_Pages_Deploy-Passing-green?style=for-the-badge&logo=github&logoColor=lightgreen"/><img src="https://img.shields.io/badge/License-MIT-lightblue?style=for-the-badge&logo=license&logoColor=lightgreen"/> <img src="https://img.shields.io/badge/tag-v1.0.0-blue?style=for-the-badge"/></p>
+<p><img src="https://img.shields.io/badge/Price-Free-yellow?style=for-the-badge&logo=money&logoColor=lightgreen"/> <img src="https://img.shields.io/badge/Size-194_KB-lightgreen?style=for-the-badge&logo=size&logoColor=lightgreen"/> <img src="https://img.shields.io/badge/GH_Pages_Deploy-Passing-green?style=for-the-badge&logo=github&logoColor=lightgreen"/> <img src="https://img.shields.io/badge/License-MIT-lightblue?style=for-the-badge&logo=license&logoColor=lightgreen"/> <img src="https://img.shields.io/badge/tag-v1.0.0-blue?style=for-the-badge"/></p>
 
 <h1 align="center">Install</h1>
 <p align="center">
