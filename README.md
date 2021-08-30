@@ -19,7 +19,7 @@
 
 **Making gitmbed Content**
 <br />
-
+<p align="center">
 <details><summary>Auto-Generation (most users)</summary>
   <ol>
     <li>Navigate to https://gitmbed.finnsoftware.net#setup.</li>
@@ -35,6 +35,7 @@
     <li>As stated on the <a href="https://gitmbed.finnsoftware.net">gitmbed homepage</a>, the <code>embed_width</code> and <code>embed_height</code> arguments can take either a numerical px, percent, em, or rem value. It should also be noted that the <code>embed_url</code> must be a full url, including <code>https://</code>, <code>http://</code>, or <code>file://</code>
   </ol>
 </details>
+</p>
 
 <br />
 
