@@ -1,4 +1,4 @@
-![](https://i.imgur.com/38MdKA3.gifv)
+<img src="https://i.imgur.com/38MdKA3.gifv"/>
 
 ### Install
 <a href="https://chrome.google.com/webstore/detail/gitmbed/cbfjhpckapddemlmidlmgoepochhfpfi" align="center"><img src="get_on_cws.png" height="75" align="center"/></a>
