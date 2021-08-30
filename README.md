@@ -11,15 +11,16 @@
 
 <h1 align="center">Getting Started!</h1>
 <br>
+<p align="center">
 <b>Viewing gitmbed Content</b>
 <br /><br />
 
 1. After installing, the gitmbed browser extension will begin searching for embbeded content. When it finds this, it will automatically render it.
 <br />
 
-**Making gitmbed Content**
+<b>Making gitmbed Content</b>
 <br />
-<p align="center">
+
 <details><summary>Auto-Generation (most users)</summary>
   <ol>
     <li>Navigate to https://gitmbed.finnsoftware.net#setup.</li>
