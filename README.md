@@ -9,7 +9,7 @@
   
 <br />
 
-### Getting Started!
+<h1 align="center">Getting Started!</h1>
 <br>
 <b>Viewing gitmbed Content</b>
 <br /><br />
