@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/38MdKA3.gif" align="center" width="100%"/>
 
 <h1 align="center">Install</h1>
-<a href="https://chrome.google.com/webstore/detail/gitmbed/cbfjhpckapddemlmidlmgoepochhfpfi" align="center"><img src="get_on_cws.png" height="75"/></a>
+<a href="https://chrome.google.com/webstore/detail/gitmbed/cbfjhpckapddemlmidlmgoepochhfpfi" align="center"><img src="get_on_cws.png"/></a>
 
 <br />
 
